@@ -1,6 +1,6 @@
 # Merge Transcripts Script
 
-This script allows users to merge transcripts from multiple text files and update timestamps based on the elapsed time. It processes all `.txt` files in the specified directory (and its subdirectories) to create a consolidated transcript with updated timestamps.
+This script allows users to merge youtube transcripts from multiple text files and update timestamps based on the elapsed time. It processes all `.txt` files in the specified directory (and its subdirectories) to create a consolidated transcript with updated timestamps.
 
 ## Prerequisites
 
